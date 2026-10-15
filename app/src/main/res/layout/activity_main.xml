@@ -9,8 +9,8 @@
         android:id="@+id/btn1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="button 1"
-        android:backgroundTint="#CCCCCC" />
+        android:text="红色按钮"
+        android:backgroundTint="#F44336" />
 
     <Button
         android:id="@+id/btn2"
